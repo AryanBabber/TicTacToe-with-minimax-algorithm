@@ -30,7 +30,7 @@ The AI uses the **Minimax algorithm** to:
 2. Fork the repository
 3. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tic-tac-toe-ai.git
+   git clone https://github.com/yourusername/TicTacToe-with-minimax-algorithm.git
    ```
 4. Open in your IDE
 5. Run `Main.java`
