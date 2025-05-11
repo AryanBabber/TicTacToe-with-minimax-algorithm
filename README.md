@@ -35,7 +35,7 @@ The AI uses the **Minimax algorithm** to:
 4. Open in your IDE
 5. Run `Main.java`
    
-# Usage
+## 🎮 Usage
 1. Launch the application
 2. Click any empty cell to place an X
 3. The AI will automatically respond with O
